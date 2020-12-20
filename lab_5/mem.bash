@@ -3,7 +3,9 @@
 rm report.log
 
 count_step=0
+
 array_index=0
+
 array=()
 
 while true
